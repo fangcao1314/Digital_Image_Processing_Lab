@@ -27,11 +27,11 @@
 
 ### 基本实验
 
-1. 图像变换[./static/OpenCV_Lab1_图像变换.md]
-2. 直方图
-3. 空域滤波
-4. 图像去噪
-5. 频域滤波
+1. [图像变换](<https://github.com/MoriatyBug/Digital_Image_Processing_Lab/blob/master/static/OpenCV_Lab1_%E5%9B%BE%E5%83%8F%E5%8F%98%E6%8D%A2.md>)
+2. [直方图](<https://github.com/MoriatyBug/Digital_Image_Processing_Lab/blob/master/static/OpenCV_Lab2_%E7%9B%B4%E6%96%B9%E5%9B%BE.md>)
+3. [空域滤波](<https://github.com/MoriatyBug/Digital_Image_Processing_Lab/blob/master/static/OpenCV_Lab3_%E7%A9%BA%E5%9F%9F%E6%BB%A4%E6%B3%A2.md>)
+4. [图像去噪](<https://github.com/MoriatyBug/Digital_Image_Processing_Lab/blob/master/static/OpenCV_Lab4_%E5%9B%BE%E5%83%8F%E5%8E%BB%E5%99%AA.md>)
+5. [频域滤波](<https://github.com/MoriatyBug/Digital_Image_Processing_Lab/blob/master/static/OpenCV_Lab5_%E9%A2%91%E5%9F%9F%E6%BB%A4%E6%B3%A2.md>)
 
 ### 拓展实验
 
@@ -39,9 +39,11 @@
 2. canny边缘检测
 3. harrison角点检测
 
+### [学习笔记](<https://github.com/MoriatyBug/Digital_Image_Processing_Lab/blob/master/static/Opencv%E5%AD%A6%E4%B9%A0.md>)
+
 ### 综合实验
 
-   基于MOG2目标检测
+   [基于MOG2目标检测](<https://github.com/MoriatyBug/Digital_Image_Processing_Lab/blob/master/static/%E5%9F%BA%E4%BA%8EOpenCV%E7%9A%84%E5%8A%A8%E6%80%81%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B.md>)
 
 ## 鸣谢
 
