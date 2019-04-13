@@ -13,9 +13,9 @@
 ## 目录结构描述
 
 
-├─images		/ /  实验用的图片和视频文件
-├─resources		/ /  实验要求和参考书籍
-├─src			/ /  实验源代码    
+├─images		    / /  实验用的图片和视频文件
+├─resources		    / /  实验要求和参考书籍
+├─src			    / /  实验源代码    
 └─static			/ /  实验报告
     └─assets		/ /  Markdown图片
 
