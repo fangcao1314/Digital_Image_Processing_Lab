@@ -1,0 +1,10 @@
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\bin\Debug\DPDtest1.exe
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\bin\Debug\DPDtest1.pdb
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\obj\Debug\DPDtest1.Form1.resources
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\obj\Debug\DPDtest1.Properties.Resources.resources
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\obj\Debug\DPDtest1.csproj.GenerateResource.Cache
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\obj\Debug\DPDtest1.exe
+C:\Users\PAN\AppData\Local\Temporary Projects\DPDtest1\obj\Debug\DPDtest1.pdb
+C:\Users\PAN\Documents\Visual Studio 2008\Projects\DPDtest1\DPDtest1\obj\Debug\DPDtest1.exe
+C:\Users\PAN\Documents\Visual Studio 2008\Projects\DPDtest1\DPDtest1\obj\Debug\DPDtest1.pdb
